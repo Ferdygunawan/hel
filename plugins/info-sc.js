@@ -11,8 +11,7 @@ let ye = `@${m.sender.split`@`[0]}`
 let esce = `
 Hai ${ye} Lagi Nyari Sc Ya? 
 
-Nih Link Sc Nya Dibawah :
-https://youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw
+Minta sama owner kalo hoki di kasih
 
 _*Jangan Lupa Di Subscribe*_`
 conn.sendBut(m.chat, esce, wm3, 'Thanks', 'thanks', m) 
