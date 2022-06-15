@@ -7,16 +7,16 @@ global.prems = []
 global.nameowner = '♪𝙺𝚊𝚜𝚞𝚖𝚒-𝙲𝚑𝚊𝚗♪'
 global.numberowner = '6289666417148'
 global.instagram = 'https://instagram.com/helga_store20'
-global.github = 'https://github.com/Hyzerr'
-global.dana = '081398860278'
-global.pulsa = '082138919347'
-global.gopay = '081398860278'
+global.github = 'https://github.com/Ferdygunawan'
+global.dana = '0'
+global.pulsa = '0'
+global.gopay = '08'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'ShiroBot-Md'
-global.gc = 'https://chat.whatsapp.com/BxrDMvfLeKTHtvAWKHWZbZ'
-global.web = 'https://www.helgastoree.xyz' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
+global.namebot = '᯽𝐍𝐞𝐩𝐭𝐮𝐧𝐞-𝐁𝐨𝐭᯽'
+global.gc = 'https://chat.whatsapp.com/FWMPerD4cVQ2Dlu8U4tLJ1'
+global.web = 'https://youtube.com' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.price1 = '1 bulan = 1000.000\n2 Minggu 700.000\n1 Minggu 500.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
 global.fotonya1 = 'https://telegra.ph/file/e4a2f4339da8a32ad20a1.jpg' //ganti jadi foto bot mu
@@ -25,8 +25,8 @@ global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = 'Zuka Beta'
 global.watermark = wm
-global.wm2 = '                     「 Zuka Beta あ⁩ 」'
-global.wm3 = '⫹⫺ Zuka Beta'
+global.wm2 = '                     「 ᯽𝐍𝐞𝐩𝐭𝐮𝐧𝐞-𝐁𝐨𝐭᯽⁩ 」'
+global.wm3 = '᯽𝐍𝐞𝐩𝐭𝐮𝐧𝐞-𝐁𝐨𝐭᯽'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
@@ -36,8 +36,8 @@ global.eror = '_*Server Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'Stiker sedang dibuat'
-global.packname = '2022'
-global.author = '© Helga Zexs'
+global.packname = '♪𝙺𝚊𝚜𝚞𝚖𝚒-𝙲𝚑𝚊𝚗♪'
+global.author = '᯽𝐍𝐞𝐩𝐭𝐮𝐧𝐞-𝐁𝐨𝐭᯽'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
