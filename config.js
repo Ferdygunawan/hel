@@ -36,8 +36,8 @@ global.eror = '_*Server Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'Stiker sedang dibuat'
-global.packname = '♪𝙺𝚊𝚜𝚞𝚖𝚒-𝙲𝚑𝚊𝚗♪'
-global.author = '᯽𝐍𝐞𝐩𝐭𝐮𝐧𝐞-𝐁𝐨𝐭᯽'
+global.packname = '᯽𝐍𝐞𝐩𝐭𝐮𝐧𝐞-𝐁𝐨𝐭᯽'
+global.author = '♪𝙺𝚊𝚜𝚞𝚖𝚒-𝙲𝚑𝚊𝚗♪'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
