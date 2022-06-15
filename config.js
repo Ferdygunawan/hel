@@ -15,7 +15,7 @@ global.gopay = '08'
 //=============『 Info Bot 』=================//
 global.namebot = '᯽𝐍𝐞𝐩𝐭𝐮𝐧𝐞-𝐁𝐨𝐭᯽'
 global.gc = 'https://chat.whatsapp.com/FWMPerD4cVQ2Dlu8U4tLJ1'
-global.web = '© Kasumi-Chan' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.web = 'htttps://© Kasumi-Chan' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 1000.000\n2 Minggu 700.000\n1 Minggu 500.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
