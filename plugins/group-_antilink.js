@@ -4,7 +4,7 @@ let linkRegex = /chat.whatsapp.com\/([0-9A-Za-z]{20,24})/i
 
 handler.before = function (m, { user, isAdmin, isBotAdmin }) {
 
-  if (m.isBaileys && m.fromMe) throw false
+  if (m.isBaileys && m.fromMe && m.isAdmin) throw false
   let chat = global.DATABASE.data.chats[m.chat]
   let name = this.getName(m.sender)
   let link = linkRegex.exec(m.text)
